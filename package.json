@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem1.js",
+  "scripts": {
+    "problema1": "node problem1.js",
+    "problema2": "node problem2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "readline": "^1.3.0"
+  }
+}
